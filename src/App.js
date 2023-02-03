@@ -1,7 +1,11 @@
-import classes from "./App.module.css";
+import StartingPage from "./Pages/StartingPage";
+
 function App() {
-  return <>
-  </>;
+  return (
+    <>
+      <StartingPage></StartingPage>
+    </>
+  );
 }
 
 export default App;
