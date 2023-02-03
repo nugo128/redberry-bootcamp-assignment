@@ -29,4 +29,9 @@
   border-radius: 8px;
   top: 513px;
   left: 728px;
+  text-decoration: none;
+}
+.btn p {
+  text-align: center;
+  margin-top: 20px;
 }
